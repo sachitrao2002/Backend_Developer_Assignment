@@ -60,7 +60,7 @@ createdb user_data
 # Run database migrations
 python manage.py migrate
 
-#to run the server
+# To run the server
 python manage.py runserver
 
 
